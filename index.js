@@ -1,3 +1,3 @@
-const nomeDoUsuario = window.prompt("Digite seu nome:")
+const nomeDoUsuario = prompt("Digite seu nome:")
 
-window.alert(" Seja bem vindo(a), " + nomeDoUsuario + "!")
+alert(" Seja bem vindo(a), " + nomeDoUsuario + "!")
